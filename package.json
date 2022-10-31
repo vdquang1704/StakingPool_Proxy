@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts-upgradeable": "^4.8.0-rc.1",
+    "@truffle/hdwallet-provider": "^2.1.0",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "@openzeppelin/hardhat-upgrades": "^1.21.0",
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "@openzeppelin/truffle-upgrades": "^1.17.0",
+    "truffle-plugin-verify": "^0.5.31"
+  }
+}
